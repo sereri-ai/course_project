@@ -2,6 +2,7 @@ body {
     background-color: #FFF;
     padding: 25px;
     margin: 5;
+    background-image: url("./menu_background.jpg");
   }
   h1, h2, p, ul, li {
     font-family: 'Times New Roman';
