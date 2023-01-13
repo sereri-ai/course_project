@@ -17,9 +17,9 @@ class Main extends Component {
              <h1>The Twisted Crab</h1>
              <ul className="header">
                 <li><NavLink exact to="/">Home</NavLink></li>
-                <li><NavLink to="/menu">Menu</NavLink></li>
-                <li><NavLink to="/about">About</NavLink></li>
-                <li><NavLink to="/login">Login</NavLink></li>
+                <li><NavLink to="/Menu">Menu</NavLink></li>
+                <li><NavLink to="/About">About</NavLink></li>
+                <li><NavLink to="/Login">Login</NavLink></li>
             </ul>
             <div className="content">
             <Routes>
@@ -34,5 +34,4 @@ class Main extends Component {
         );
     }
 }
-
 export default Main;
