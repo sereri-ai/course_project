@@ -12,18 +12,18 @@ class Menu extends Component {
           <th><b>(D) Shrimp w. Head (1lb) and Snow Crab Legs (1lb)</b></th>
         </tr>
         <tr>
-          <td>Comes with 2 Corn and 2 Potatoes. Seasonings: Cajun,<br>
-                Lemon Pepper, Garlic Butter, Creole or the Twisted Sauce</br>
-                <br><b>$39.50</b></br></td>
-          <td>Comes with 2 Corn and 2 Potatoes. Seasonings: Cajun,<br>
-                Lemon Pepper, Garlic Butter, Creole or the Twisted Sauce</br>
-                <br><b>$39.50</b></br></td>
-          <td>Comes with 2 Corn and 2 Potatoes. Seasonings: Cajun,<br>
-                Lemon Pepper, Garlic Butter, Creole or the Twisted Sauce</br>
-                <br><b>$39.50</b></br></td>
+          <td>Comes with 2 Corn and 2 Potatoes. Seasonings: Cajun,
+                Lemon Pepper, Garlic Butter, Creole or the Twisted Sauce
+                <b> $39.50</b></td>
+          <td>Comes with 2 Corn and 2 Potatoes. Seasonings: Cajun,
+                Lemon Pepper, Garlic Butter, Creole or the Twisted Sauce
+                <b> $39.50</b></td>
+          <td>Comes with 2 Corn and 2 Potatoes. Seasonings: Cajun,
+                Lemon Pepper, Garlic Butter, Creole or the Twisted Sauce
+                <b> $39.50</b></td>
         </tr>
       </table>
-      </div>
+      </div> 
     );
   }
 }

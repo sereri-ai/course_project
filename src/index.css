@@ -46,7 +46,7 @@ body {
   .active {
       background-color: rgb(255, 0, 0);
   }
-  .table {
+  table {
     border-width: 1px;
     border-spacing: 0px;
     border-style: solid;
@@ -54,14 +54,14 @@ body {
     border-collapse: separate;
     background-color: white;
   }
-  .table th {
+  table th {
     border-width: 1px;
     padding: 10px;
     border-style: solid;
     border-color: black;
     background-color: white;
   }
-  .table td {
+  table td {
     border-width: 1px;
     padding: 10px;
     border-style: solid;

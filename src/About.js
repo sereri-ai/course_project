@@ -12,9 +12,9 @@ class About extends Component {
           <tr>Friday-Saturday 12:00 pm - 12:30 pm</tr>
         </table>
         <p><b>OUR LOCATION ADDRESS</b></p>
-        <p><br>12300 Jefferson Ave #909</br>
-              <br>Newport News, VA 23602</br>
-              <br>757-527-4900</br></p>
+        <p>12300 Jefferson Ave #909
+            Newport News, VA 23602
+            757-527-4900</p>
       </div>
     );
   }
